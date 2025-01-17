@@ -1,4 +1,4 @@
-# Sérgio Campos Silvério - DDD(Dollar Driven Developer)
+# Sérgio Campos Silvério - DDD(Dollar Driven Developer) - Skilled feature builder - Fierce bug slayer o/
 ## Backedn development | Ruby on Rails | FastAPI | NestJS
 
 ###
